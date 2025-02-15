@@ -1,2 +1,1 @@
-# php2-hw6
-queue
+# reminger-tg-bot
